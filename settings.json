@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "plug-KwwA.aternos.me:60328",
+    "ip": "plug-KwwA.aternos.me",
     "port": 60328,
     "version": "1.21.11",
     "try-creative": false
